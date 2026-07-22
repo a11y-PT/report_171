@@ -1,6 +1,6 @@
 ---
 website: "Site institucional da APEC"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "20/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.apec.org.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.apec.org.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "APEC - Associação Promotora do Ensino dos Cegos"         # Entre as aspas escrever o nome do owner do website
@@ -29,7 +29,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório {{ page.website }}</a></li>
+    <li><a href="22072026_report.html">(22/07/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
